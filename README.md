@@ -112,12 +112,12 @@
 
 ### 1) Control de Errores
 
-![](img/imagen1.png)
+![](img/imagen1.jpeg)
 	
 ### 2) Prueba con Autor:author1
 
-![](img/imagen2.png)
+![](img/imagen2.jpeg)
 	
 ### 3) Prueba con Autor:cristian
 
-![](img/imagen3.png)
+![](img/imagen3.jpeg)
