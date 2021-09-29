@@ -107,17 +107,22 @@
 "# ARSW_lab5" 
 	
 	
-## Ajustes Backend
+## EVIDENCIAS
 	
-
+	
 ### 1) Control de Errores
 
+	
 ![](img/imagen1.jpeg)
 	
+	
 ### 2) Prueba con Autor:author1
+	
 
 ![](img/imagen2.jpeg)
 	
+	
 ### 3) Prueba con Autor:cristian
+	
 
 ![](img/imagen3.jpeg)
