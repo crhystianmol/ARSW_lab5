@@ -105,3 +105,19 @@
 
 14. Revise la [documentación y ejemplos de los estilos de Bootstrap](https://v4-alpha.getbootstrap.com/examples/) (ya incluidos en el ejercicio), agregue los elementos necesarios a la página para que sea más vistosa, y más cercana al mock dado al inicio del enunciado.
 "# ARSW_lab5" 
+	
+	
+## Ajustes Backend
+	
+
+### 1) Control de Errores
+
+![](img/imagen1.png)
+	
+### 2) Prueba con Autor:author1
+
+![](img/imagen2.png)
+	
+### 3) Prueba con Autor:cristian
+
+![](img/imagen3.png)
